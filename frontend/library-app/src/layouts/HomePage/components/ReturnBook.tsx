@@ -8,8 +8,8 @@ export const ReturnBook: React.FC<{ book: BookModel }> = (props) => {
       {props.book.img ? 
                     <img
                         src={props.book.img}
-                        width='152331'
-                        height=''
+                        width='151'
+                        height='233'
                         alt="book"
                     />
                     :
